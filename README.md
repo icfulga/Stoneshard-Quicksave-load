@@ -1,4 +1,4 @@
-# Shoneshard-Quicksave/load
+# Stoneshard-Quicksave/load
 A simple script that uses AuthoHotkey to quicksave/quickload in Stoneshard. I wrote this using ChatGPT.
 
 This script works in the dumbest way possible. Quicksaving means it exits the game (goes to the main menu), copies the saved game files to a folder on your desktop, and then loads the game again. Quickloading means it exits the game (goes to the main menu), copies the saved game files from your Desktop back to the Stoneshard ```characters_v1``` folder, and then loads the game again.
