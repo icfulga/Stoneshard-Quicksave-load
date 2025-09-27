@@ -24,7 +24,7 @@ Run ```Stoneshard.ahk``` by double-clicking on it. Afterwards, start Stoneshard.
 
 # Notes
 
-- !!!DONT'T!!! quicksave while in the main menu. This will overwrite your previously saved game, and you will be back to where you were when you last quit the game.
+- !!!DON'T!!! quicksave while in the main menu. This will overwrite your previously saved game, and you will be back to where you were when you last quit the game.
 
 - This script has been tested only using ```AutoHotkey v2.0``` and ```Stoneshard 0.9.3.10```
 
