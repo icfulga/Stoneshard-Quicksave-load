@@ -27,7 +27,7 @@
 	Click("Left Down")
 	Sleep(50)
 	Click("Left Up")
-	; Copy the save files back to the Stoneshard folder
+	; Copy the save files to the StoneshardBackup folder on your Desktop
 	Sleep(200)
     Run(A_Desktop "\quicksave.bat", , "Hide")
     Sleep(200)
@@ -85,12 +85,5 @@
 	; Press Continue
 	Click("Left Down")
 	Sleep(50)
-	Click("Left Up")
-}
-
-
-^+F8:: {
-	Click("Left Down")
-	Sleep(50)         ; wait 50 ms
 	Click("Left Up")
 }
